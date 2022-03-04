@@ -9,6 +9,8 @@
  ##### Run your cmd or terminal
     composer install
 
+ ##### Run
+    php artisan key:generate
     
 
 ### Install db
