@@ -1,7 +1,7 @@
 ## Installation
 
  ##### Clone project
-    git clone 
+    git clone https://github.com/AzizGulaliyev7/task-api.git
 
  ##### Go to the folder application using cd command on your cmd or terminal
     cd task-api
